@@ -22,11 +22,3 @@ This is a simple **Graphical User Interface (GUI)** calculator built using Pytho
 python calculator.py
 
 
-## 🎥 Demo Video
-
-Click below to watch the demo of the GUI calculator in action:
-
-[🔗 Watch Demo](./gui%20calculator/CODSOFT_Task2_Calculator_Demo.mp4)
-
-> *(Note: GitHub may download the video instead of playing it in the browser)*
-
