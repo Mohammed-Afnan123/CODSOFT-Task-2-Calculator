@@ -12,13 +12,4 @@ This is a simple **Graphical User Interface (GUI)** calculator built using Pytho
 
 ---
 
-## 🧠 How to Run
-
-1. Make sure Python is installed.
-2. Open terminal or VS Code.
-3. Run the file:
-
-```bash
-python calculator.py
-
 
