@@ -4,16 +4,12 @@ This is a simple **Graphical User Interface (GUI)** calculator built using Pytho
 
 ---
 
-## 🚀 Features
-- Addition, Subtraction, Multiplication, Division
-- Clear (`C`) button to reset input
-- `=` button to evaluate expressions
-- Clean and responsive interface using Tkinter
-
----
-
 ## 🎥 Video
 
+📎 This project was created as part of the CODSOFT internship.
+
 The demo video for this project is available on LinkedIn (tagged under CODSOFT the link available in my profile).☺️
+
+---
 
 
