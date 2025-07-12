@@ -12,4 +12,8 @@ This is a simple **Graphical User Interface (GUI)** calculator built using Pytho
 
 ---
 
+## 🎥 Video
+
+The demo video for this project is available on LinkedIn (tagged under CODSOFT).☺️
+
 
